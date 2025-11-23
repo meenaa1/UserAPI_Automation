@@ -1191,7 +1191,7 @@
 	"variable": [
 		{
 			"key": "baseUrl",
-			"value": "http://localhost:8080"
+			"value": "https://userserviceapp-f5a54828541b.herokuapp.com/uap/"
 		},
 		{
 			"key": "userId",
